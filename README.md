@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Simone, here are some facts about me:
+
+- 🔭 I’m currently working on derma-app, an application for patients to track their eczema and medications. I reccomend visiting the repos.
+- 🌱 I’m currently learning ... well, one never stops learning, but GraphQL and Google Vision are the two technologies on the top of my list.
+- 👯 I’m looking to collaborate on anything that I find fun to develop and delivers value to the users.
+- 💬 Ask me about biotech, and public funding, innovation management. 
+- 📫 How to reach me: shoot me an email in English or Italian at simottardi@gmail.com, and if you like to help me practice my Dutch, we can try also with that!
+
 <!--
 **simottardi/simottardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
