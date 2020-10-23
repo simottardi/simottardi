@@ -12,14 +12,16 @@ Here are some facts about me:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=simottardi)
 
+
+<!--
+**simottardi/simottardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=derma-app-front)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=derma-app-back)
 
 ![counter](https://[github.com/simottardi].m.pipedream.net)
 
-<!--
-**simottardi/simottardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
