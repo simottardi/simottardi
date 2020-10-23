@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Simone, here are some facts about me:
+I am Simone, pleased to meet you! ✨
+
+Here are some facts about me:
 
 - 🔭 I’m currently working on derma-app, an application for patients to track their eczema and medications. I reccomend visiting the repos.
 - 🌱 I’m currently learning ... well, one never stops learning, but GraphQL and Google Vision are the two technologies on the top of my list.
