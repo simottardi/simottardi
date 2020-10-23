@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-I am Simone, pleased to meet you! ✨
+Hi! I am Simone, pleased to meet you! ✨
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on derma-app, an application for patients to track their eczema and medications. I reccomend visiting the repos.
+- 🔭 The project that I am working on is derma-app, an application for patients to track their eczema and medications. I reccomend visiting the repos.
 - 🌱 I’m currently learning ... well, one never stops learning, but GraphQL and Google Vision are the two technologies on the top of my list.
 - 👯 I’m looking to collaborate on anything that I find fun to develop and delivers value to the users.
 - 💬 Ask me about biotech, and public funding, innovation management. 
 - 📫 How to reach me: shoot me an email in English or Italian at simottardi@gmail.com, and if you like to help me practice my Dutch, we can try also with that!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=simottardi)
+🔭  I am looking for a junior opportunity to code, to deliver, to learn and to laugh. Do reach out to me if you want to talk! coffeecoffee
+
+
 
 
 <!--
@@ -21,7 +23,7 @@ Here are some facts about me:
 
 ![counter](https://[github.com/simottardi].m.pipedream.net)
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=simottardi)
 
 Here are some ideas to get you started:
 
