@@ -4,7 +4,7 @@ Hi! I am Simone, pleased to meet you! ✨
 
 Here are some facts about me:
 
-- 🔭 The project that I am working on is derma-app, an application for patients to track their eczema and medications. I reccomend visiting the repos.
+- :wrench: The project that I am working on is derma-app, an application for patients to track their eczema and medications. I reccomend visiting the repos.
 - 🌱 I’m currently learning ... well, one never stops learning, but GraphQL and Google Vision are the two technologies on the top of my list.
 - 👯 I’m looking to collaborate on anything that I find fun to develop and delivers value to the users.
 - 💬 Ask me about biotech, and public funding, innovation management. 
