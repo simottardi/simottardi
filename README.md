@@ -10,6 +10,14 @@ Here are some facts about me:
 - 💬 Ask me about biotech, and public funding, innovation management. 
 - 📫 How to reach me: shoot me an email in English or Italian at simottardi@gmail.com, and if you like to help me practice my Dutch, we can try also with that!
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=simottardi)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=derma-app-front)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=derma-app-back)
+
+![counter](https://[github.com/simottardi].m.pipedream.net)
+
 <!--
 **simottardi/simottardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
